@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "75088423443",
+    "firebase_url": "https://adlocussample-master.firebaseio.com",
+    "project_id": "adlocussample-master",
+    "storage_bucket": "adlocussample-master.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:75088423443:android:44fff0133d653124",
+        "android_client_info": {
+          "package_name": "yfp.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "75088423443-20oafihv6ut2sekd4kisb8f57he9qj59.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "yfp.com",
+            "certificate_hash": "4108a6826f5e43138c9052d43e7380ee4da9dba0"
+          }
+        },
+        {
+          "client_id": "75088423443-qhthiklburcstm2numk3eh6p54sclhko.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEAiq2LaOg5Re74wSqEwMWN8DigX1NrJw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "75088423443-qhthiklburcstm2numk3eh6p54sclhko.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

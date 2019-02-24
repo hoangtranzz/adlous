@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">統一發票中獎號碼NEW</string>
+    <string name="long_app_name">統一發票</string>
+    <string name="fcm_app_key">AAAACYaT8gw:APA91bGdc-4E6gHpO2eyICCszzxY_UCARUgHAKwpHFWr-XTxXbYiRMRQJpxnnQc_z3vRNCJaApitIDoAh4XxlRMhSQY_rj6f93kXBIvtaHdKJWsD_ov_-qh4KjuMESfjGdPPQb8UbQnJ</string>
+    <string name="app_key">0c440db16d84a18346113aaa2b27a5648db24917</string>
+    <string name="l1">.</string>
+    <string name="l2">.</string>
+    <string name="l3">.</string>
+    <string name="a">離開</string>
+    <string name="b">返回</string>
+    <string name="action_settings">最新版更新</string>
+</resources>

@@ -1,0 +1,7 @@
+#Sun Feb 24 13:04:59 CST 2019
+base.0=C\:\\Users\\xutw\\AdLocusSample-mastercopy1t -ok - onlyadlous\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+path.1=classes2.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=C\:\\Users\\xutw\\AdLocusSample-mastercopy1t -ok - onlyadlous\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
